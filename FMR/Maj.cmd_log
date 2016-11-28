@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/robin/Desktop/5MR/FMR/Maj.v -lang verilog -prj FMR -o Maj.spl -module Maj -template C:/Xilinx/14.5/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family zynq Maj.spl C:/Users/robin/Desktop/5MR/FMR/Maj.sym 

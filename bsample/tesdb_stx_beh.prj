@@ -1,0 +1,3 @@
+verilog isim_temp "bes.v"
+verilog isim_temp "tesdb.v"
+verilog isim_temp "C:/Xilinx/14.5/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,8 @@
+Exception at PC 0x00000001800B5E64
+Attemped to read address 0x00000000000000B4
+Printing stacktrace...
+
+[0] (xsi_delete_subprogram_invocation+0x34) [0x0x00000001800b5e64]
+[1] (xsi_delete_subprogram_invocation+0x34) [0x0x00000001800b5e64]
+[2]  [0x0x00000000004019b5]
+Done

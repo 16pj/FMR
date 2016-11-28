@@ -1,0 +1,28 @@
+Command line:
+   scrambletest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52557
+
+Wed Dec 02 22:13:39 2015
+
+
+ Elaboration Time: 0.21875 sec
+
+ Current Memory Usage: 843.948 Meg
+
+ Total Signals          : 17
+ Total Nets             : 28
+ Total Signal Drivers   : 12
+ Total Blocks           : 4
+ Total Primitive Blocks : 2
+ Total Processes        : 15
+ Total Traceable Variables  : 29
+ Total Scalar Nets and Variables : 159
+
+ Total Simulation Time: 0.296875 sec
+
+ Current Memory Usage: 1158.52 Meg
+
+Wed Dec 02 22:14:21 2015
+

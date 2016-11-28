@@ -1,0 +1,28 @@
+Command line:
+   duyva_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57284
+
+Fri Dec 04 16:31:11 2015
+
+
+ Elaboration Time: 0.21875 sec
+
+ Current Memory Usage: 839.766 Meg
+
+ Total Signals          : 38
+ Total Nets             : 34
+ Total Signal Drivers   : 23
+ Total Blocks           : 11
+ Total Primitive Blocks : 7
+ Total Processes        : 31
+ Total Traceable Variables  : 39
+ Total Scalar Nets and Variables : 175
+
+ Total Simulation Time: 0.25 sec
+
+ Current Memory Usage: 839.766 Meg
+
+Fri Dec 04 16:31:22 2015
+

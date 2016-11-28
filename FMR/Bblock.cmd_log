@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/robin/Desktop/PROJECTS FILES/5MR/FMR/Bblock.xst" -ofn "C:/Users/robin/Desktop/PROJECTS FILES/5MR/FMR/Bblock.syr" 
+xst -intstyle ise -ifn "C:/Users/robin/Desktop/PROJECTS FILES/5MR/FMR/Bblock.xst" -ofn "C:/Users/robin/Desktop/PROJECTS FILES/5MR/FMR/Bblock.syr" 
